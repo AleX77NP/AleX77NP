@@ -1,6 +1,9 @@
 
-<strong align="center">My languages, tools, technologies</strong>:
+<strong>My languages, tools, technologies</strong>:
 <p align="center">
+ <strong>My languages, tools, technologies</strong>:
+ <br />
+ <br />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go" height="24" style="vertical-align:top; margin:4px">
@@ -25,9 +28,9 @@
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="MongoDB" height="52" style="vertical-align:top; margin:4px">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 
 <!--
 **AleX77NP/AleX77NP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 </p>
-
 -->
