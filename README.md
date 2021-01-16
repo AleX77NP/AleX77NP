@@ -1,7 +1,5 @@
-<p align="center">
- <strong>My languages, tools, technologies</strong>:
- <br />
- <br />
+
+### My Languages
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go" height="24" style="vertical-align:top; margin:4px">
@@ -10,7 +8,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
  
  <br />
- <br />
+ 
+ ### My Frameworks
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
    <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" alt="Flask" height="28" style="vertical-align:top; margin:4px">
@@ -19,8 +18,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
  
  <br />
- <br />
  
+ ### Other technologies
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" alt="Apollo" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
@@ -30,5 +29,4 @@
 
 <!--
 **AleX77NP/AleX77NP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-</p>
 -->
