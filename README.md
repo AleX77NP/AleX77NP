@@ -35,6 +35,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="40"   style="vertical-align:top; margin:4px">
    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" height="52" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" height="48" style="vertical-align:top; margin:4px">
+ <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" alt="Firebase" height="52" style="vertical-align:top; margin:4px">
 </div>
 <!--
 **AleX77NP/AleX77NP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
