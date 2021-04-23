@@ -32,12 +32,10 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="NextJS" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="40" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
   <img src="https://fullstackphoenix.com/images/phoenix-bcd92d6eab83c07e921cb06c8121321a.png?vsn=d" alt="Phoenix" height="40" style="vertical-align:top; margin:4px">
  </div>
  <br />
- 
  
  ### Other technologies
  <div class="row">
@@ -47,8 +45,11 @@
   <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="MongoDB" height="52" style="vertical-align:top; margin:4px">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="40"   style="vertical-align:top; margin:4px">
    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" height="52" style="vertical-align:top; margin:4px">
+  <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png" alt="Redis" height="52" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" height="48" style="vertical-align:top; margin:4px">
  <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" alt="Kubernetes" height="52" style="vertical-align:top; margin:4px">
+  <img src="https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="Pyspark" height="52" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png" alt="RabbitMQ" height="40"   style="vertical-align:top; margin:4px">
 </div>
 <!--
 **AleX77NP/AleX77NP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
