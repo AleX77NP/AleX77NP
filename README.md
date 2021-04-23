@@ -11,6 +11,16 @@
  </div>
  <br />
  
+ ### Secondary Languages
+ <div class="row>
+ <img src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" height="40" style="vertical-align:top; margin:4px">
+ 
+ </div>
+ 
  
  ### My Frameworks
  <div class="row">
