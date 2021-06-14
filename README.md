@@ -51,7 +51,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" height="48" style="vertical-align:top; margin:4px">
  <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" alt="Kubernetes" height="52" style="vertical-align:top; margin:4px">
   <img src="https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="Pyspark" height="52" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png" alt="RabbitMQ" height="40"   style="vertical-align:top; margin:4px">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/rabbitmq-282296.png" alt="RabbitMQ" height="40"   style="vertical-align:top; margin:4px">
 </div>
 <!--
 **AleX77NP/AleX77NP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
