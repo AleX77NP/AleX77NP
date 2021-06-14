@@ -34,8 +34,10 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="Svelte" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png" alt="Spring Boot" height="40" style="vertical-align:top; margin:4px">
  </div>
  <br />
+ 
  
  ### Other technologies
  <div class="row">
