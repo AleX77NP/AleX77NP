@@ -11,7 +11,6 @@
  
  ### Secondary Languages
  <div class="row>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png" alt="Elixir" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" height="40" style="vertical-align:top; margin:4px">
