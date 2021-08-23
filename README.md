@@ -52,7 +52,6 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" height="48" style="vertical-align:top; margin:4px">
  <img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" alt="Kubernetes" height="52" style="vertical-align:top; margin:4px">
   <img src="https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="Pyspark" height="52" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/rabbitmq-282296.png" alt="RabbitMQ" height="40"   style="vertical-align:top; margin:4px">
  <img src="https://s.appbrain.com/static/202103031751824/blob/sdk-logos/grpc.png" alt="gRPC" height="40"   style="vertical-align:top; margin:4px">
 </div>
 <!--
