@@ -12,7 +12,6 @@
  ### Secondary Languages
  <div class="row>
  <img src="https://cdnlogo.com/logos/c/27/c.svg" alt="c#" height="40" style="vertical-align:top; margin:4px">
- <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" height="40" style="vertical-align:top; margin:4px">
   <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="40" style="vertical-align:top; margin:4px">
@@ -35,7 +34,6 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png" alt="Spring Boot" height="40" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" alt="Spring Boot" height="40" style="vertical-align:top; margin:4px">
  </div>
  <br />
  
