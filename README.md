@@ -6,6 +6,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png" alt="Elixir" height="40" style="vertical-align:top; margin:4px">
  </div>
  <br />
  
@@ -17,7 +18,6 @@
  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="40" style="vertical-align:top; margin:4px">
  <img src="https://image.flaticon.com/icons/png/512/919/919833.png" alt="Swift" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Official_Elixir_logo.png" alt="Elixir" height="40" style="vertical-align:top; margin:4px">
  </div>
 
  
