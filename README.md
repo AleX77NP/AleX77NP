@@ -31,7 +31,6 @@
    <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" alt="Flask" height="28" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="NextJS" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png" alt="Spring Boot" height="40" style="vertical-align:top; margin:4px">
  </div>
@@ -41,7 +40,6 @@
  ### Other technologies
  <div class="row">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" alt="Apollo" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="MongoDB" height="52" style="vertical-align:top; margin:4px">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="40"   style="vertical-align:top; margin:4px">
