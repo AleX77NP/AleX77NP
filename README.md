@@ -12,7 +12,7 @@
             print("Familiar but stale: Elixir, Swift, C#")
 ```
 
-### Fields
+### Fields of interest
 ```go
 func main() {
 	switch field := os.Getenv("FIELD"); field {
