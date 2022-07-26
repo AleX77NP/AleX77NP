@@ -14,6 +14,10 @@
 
 ### Fields
 ```go
-favorite := []{"Distributed Systems, "Big Data", "Infrastracture"}
-interestedIn := []{"Systems Programming", "ML & AI"}
+if fields == "favorite"
+      return []{"Distributed Systems, "Big Data", "Infrastracture"}
+else {
+      return []{"Systems Programming", "ML & AI"}
+}
 ```
+
