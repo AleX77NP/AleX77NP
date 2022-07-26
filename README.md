@@ -14,10 +14,16 @@
 
 ### Fields
 ```go
-if fields == "favorite"
-      return []{"Distributed Systems, "Big Data", "Infrastracture"}
-else {
-      return []{"Systems Programming", "ML & AI"}
+func main() {
+	fmt.Print("Go runs on ")
+	switch field := os.Getenv("FIELD"); os {
+	case "favorite":
+		fmt.Println("Distributed Systems, Big Data, Virtualization")
+	case "interested":
+		fmt.Println("ML & AI, Systems Programming")
+	default:.
+		fmt.Printf("???")
+	}
 }
 ```
 
