@@ -4,7 +4,8 @@
 
 ### Lanuages
 ```python
-      list = []
+      if category == "primary":
+            print("Go", "Python", "C++", "Java")
 ```
 
 ### Fields
