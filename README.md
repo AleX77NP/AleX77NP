@@ -4,17 +4,17 @@
 
 ### Lanuages
 ```python
-primary = ["Go", "Python", "C++", "Java"]
-conversant = ("Scala", "JS/TS", "C#", "C", "sh/bash")
-familiar_but_stale = {"Elixir", "Swift"}
+      primary = ["Go", "Python", "C++", "Java"]
+      conversant = ("Scala", "JS/TS", "C#", "C", "sh/bash")
+      familiar_but_stale = {"Elixir", "Swift"}
 ```
 
 ### Fields
 ```python
-all = {
-  "favorite": ["Distributed Systems", "Big Data", "Infrastructure"],
-  "intersted_in": ["Machine Learning & AI", "Systems Programming"]
-}
+      all = {
+        "favorite": ["Distributed Systems", "Big Data", "Infrastructure"],
+        "intersted_in": ["Machine Learning & AI", "Systems Programming"]
+      }
 ```
 ```python
    # using 3-backtick python in same line
