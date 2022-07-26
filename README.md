@@ -5,7 +5,7 @@
 ### Lanuages
 ```python
       if category == "primary":
-            print("Go, Python", C++, Java")
+            print("Go, Python, C++, Java")
       elif category == "conversant":
             print("JavaScript, Scala, sh/bash, C")
       else:
@@ -13,9 +13,7 @@
 ```
 
 ### Fields
-```python
-      all = {
-        "favorite": ["Distributed Systems", "Big Data", "Infrastructure"],
-        "intersted_in": ["Machine Learning & AI", "Systems Programming"]
-      }
+```go
+favorite := []{"Distributed Systems, "Big Data", "Infrastracture"}
+interestedIn := []{"Systems Programming", "ML & AI"}
 ```
