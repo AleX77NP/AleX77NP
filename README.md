@@ -15,7 +15,7 @@
 ### Fields
 ```go
 func main() {
-	switch field := os.Getenv("FIELD"); os {
+	switch field := os.Getenv("FIELD"); field {
 	case "favorite":
 		fmt.Println("Distributed Systems, Big Data, Virtualization")
 	case "interested":
