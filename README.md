@@ -19,7 +19,7 @@ func main() {
 	case "favorite":
 		fmt.Println("Distributed Systems, Big Data, Virtualization")
 	case "interested":
-		fmt.Println("ML & AI, Systems Programming")
+		fmt.Println("Systems Programming, ML & AI")
 	default:.
 		fmt.Printf("???")
 	}
