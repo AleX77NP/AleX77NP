@@ -4,6 +4,7 @@
 
 ### Lanuages
 ```python
+      print('a')
       primary = ["Go", "Python", "C++", "Java"]
       conversant = ("Scala", "JS/TS", "C#", "C", "sh/bash")
       familiar_but_stale = {"Elixir", "Swift"}
@@ -16,8 +17,3 @@
         "intersted_in": ["Machine Learning & AI", "Systems Programming"]
       }
 ```
-```python
-   # using 3-backtick python in same line
-       if a === 1:
-           print("foo")
-    ```
