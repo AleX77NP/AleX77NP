@@ -15,7 +15,6 @@
 ### Fields
 ```go
 func main() {
-	fmt.Print("Go runs on ")
 	switch field := os.Getenv("FIELD"); os {
 	case "favorite":
 		fmt.Println("Distributed Systems, Big Data, Virtualization")
