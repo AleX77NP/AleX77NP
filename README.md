@@ -6,7 +6,7 @@
 ```
 primary = ["Go", "Python", "C++", "Java"]
 conversant = ("Scala", "JS/TS", "C#", "C", "sh/bash")
-familiar_but_stale = {"Elixir", "Swift", ""}
+familiar_but_stale = {"Elixir", "Swift"}
 ```
 
 ### Fields
