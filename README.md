@@ -13,6 +13,6 @@ familiar_but_stale = {"Elixir", "Swift"}
 ```python
 all = {
   "favorite": ["Distributed Systems", "Big Data", "Infrastructure"],
-  "intersted": ["Machine Learning & AI", "Systems Programming"]
+  "intersted_in": ["Machine Learning & AI", "Systems Programming"]
 }
 ```
