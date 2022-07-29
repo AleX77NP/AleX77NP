@@ -9,7 +9,7 @@
       elif category == "conversant":
             print("Scala, sh/bash, C, C#")
       else:
-            print("Familiar but stale: Elixir, Swift, Kotlin, Rust")
+            print("Familiar and/or stale: Elixir, Swift, Kotlin, Rust")
 ```
 
 ### Fields of interest
