@@ -5,11 +5,11 @@
 ### Lanuages
 ```python
       if category == "primary":
-            print("Go, Python, C++, Java")
+            print("Go, Python, C++, Java, JavaScript/TypeScript")
       elif category == "conversant":
-            print("JavaScript, Scala, sh/bash, C")
+            print("Scala, sh/bash, C, C#")
       else:
-            print("Familiar but stale: Elixir, Swift, C#")
+            print("Familiar but stale: Elixir, Swift, Kotlin, Rust")
 ```
 
 ### Fields of interest
