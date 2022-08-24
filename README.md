@@ -9,7 +9,7 @@
       elif category == "secondary":
             print("JavaScript, sh/bash, C, C#, Elixir")
       else:
-            print("Familiar but stale: R, Swift, Kotlin")
+            print("Familiar but stale: R, Swift, Kotlin, PHP")
 ```
 
 ### Fields of interest
