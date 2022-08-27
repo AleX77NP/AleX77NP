@@ -5,9 +5,9 @@
 ### Lanuages
 ```python
       if category == "primary":
-            print("Go, Python, C++, Java, Scala, TypeScript")
+            print("Go, Python, C++, Scala, TypeScript")
       elif category == "secondary":
-            print("JavaScript, sh/bash, C, C#, Elixir")
+            print("JavaScript, Java, sh/bash, Powershell, C, C#, Elixir")
       else:
             print("Familiar but stale: R, Swift, Kotlin, PHP")
 ```
