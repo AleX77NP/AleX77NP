@@ -9,7 +9,7 @@
       elif category == "scripting":
             print("sh/bash, Powershell")
       else:
-            print("What to learn next?")
+            print("???")
 ```
 
 ### Fields of interest
