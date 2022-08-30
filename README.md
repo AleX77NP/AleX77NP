@@ -4,12 +4,12 @@
 
 ### Lanuages
 ```python
-      if category == "primary":
-            print("Go, Python, C++, Scala, Java, TypeScript")
-      elif category == "secondary":
-            print("JavaScript, sh/bash, Powershell, C, C#, Elixir")
+      if category == "programming":
+            print("Go, Python, C++, Scala, Java, JavaScript/TypeScript, Elixir, C#, Swift")
+      elif category == "scripting":
+            print("sh/bash, Powershell")
       else:
-            print("Familiar but stale: R, Swift, Kotlin, PHP")
+            print("What to learn next?")
 ```
 
 ### Fields of interest
