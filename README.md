@@ -9,7 +9,7 @@
       elif category == "scripting":
             print("sh/bash, Powershell")
       else:
-            print("Familiar but stale: Elixir, Rust, C#, Swift, Kotlin")
+            print("Familiar but/or stale: Elixir, Rust, C#, Swift, Kotlin")
 ```
 
 ### Fields of interest
