@@ -5,11 +5,11 @@
 ### Lanuages
 ```python
       if category == "programming":
-            print("Go, Python, C++, Scala, Java, JavaScript/TypeScript, Elixir, C#, Swift")
+            print("Go, Python, C++, Scala, Java, JS/TS")
       elif category == "scripting":
             print("sh/bash, Powershell")
       else:
-            print("???")
+            print("Familiar but stale: Elixir, Rust, C#, Swift, Kotlin")
 ```
 
 ### Fields of interest
